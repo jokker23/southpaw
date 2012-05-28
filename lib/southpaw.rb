@@ -2,6 +2,7 @@ $LOAD_PATH.unshift File.dirname(__FILE__)
 require 'httparty'
 require 'nokogiri'
 require 'southpaw/version'
+require 'southpaw/venue'
 require 'southpaw/game'
 require 'southpaw/team'
 require 'southpaw/gameday/base'
