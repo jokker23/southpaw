@@ -2,6 +2,10 @@
 ========
 Southpaw is a Ruby library used to access MLB game data and statistics.
 
+## Status
+
+Southpaw is **unstable** and **under active development**. 
+
 ## Supported Versions of Ruby
 
 Southpaw has been tested on the following versions of Ruby:
